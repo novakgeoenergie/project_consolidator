@@ -1,6 +1,6 @@
 # Project Consolidator – QGIS Plugin
 
-**Version:** 0.1.0 | **QGIS:** ≥ 3.34 (tested on 3.40 LTR)  
+**Version:** 1.0 | **QGIS:** ≥ 3.34 (tested on 3.40 LTR)  
 **Author:** Petr Novak  
 **Languages:** English · Deutsch · Čeština
 
