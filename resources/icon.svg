@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Folder base -->
+  <path d="M2 10 Q2 8 4 8 L13 8 L15 6 L28 6 Q30 6 30 8 L30 26 Q30 28 28 28 L4 28 Q2 28 2 26 Z"
+        fill="#4a90d9" stroke="#2c5f8a" stroke-width="1"/>
+  <!-- Arrow down into folder -->
+  <polygon points="16,12 22,19 19,19 19,24 13,24 13,19 10,19"
+           fill="white" opacity="0.9"/>
+  <!-- Layers stacked hint -->
+  <rect x="6" y="20" width="5" height="2" rx="1" fill="white" opacity="0.6"/>
+  <rect x="6" y="23" width="7" height="2" rx="1" fill="white" opacity="0.6"/>
+</svg>
