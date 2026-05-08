@@ -3,7 +3,7 @@ name=Project Consolidator
 qgisMinimumVersion=3.34
 qgisMaximumVersion=3.99
 description=Consolidates all local layer sources of a QGIS project into a single Layers/ folder, preserving group structure and layer styling.
-version=0.1.0
+version=1.0
 author=Petr Novak
 email=petr.novak@gmail.com
 about=Analyzes the current QGIS project, detects all local file-based layers, and exports a consolidated copy of the project where all layers reside in a single Layers/ directory (with subdirectories mirroring layer groups). Supports GeoPackage, Shapefile, GeoTIFF and more. Optional: download WFS/WCS service layers, convert Shapefiles to GeoPackage, save memory layers.
@@ -11,8 +11,8 @@ tracker=https://github.com/novakgeonergie/project_consolidator
 repository=https://github.com/novakgeonergie/project_consolidator
 homepage=https://github.com/novakgeonergie/project_consolidator
 category=Plugins
-experimental=True
+experimental=False
 deprecated=False
 tags=project,consolidate,backup,layers,portability,archive
 changelog=
-    0.1.0 - Initial release
+    1.0 - Initial release
