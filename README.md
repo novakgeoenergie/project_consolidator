@@ -106,4 +106,4 @@ project_consolidator/
 
 ## License
 
-MIT License – see LICENSE file.
+GNU GENERAL PUBLIC LICENSE – see LICENSE file.
